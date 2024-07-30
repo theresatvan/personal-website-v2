@@ -17,7 +17,7 @@
   "stylelint.validate": ["css", "scss"],
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll": true
+    "source.fixAll": "explicit"
   },
   "files.associations": {
     "*.css": "tailwindcss"
