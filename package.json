@@ -12,7 +12,11 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@contentful/rich-text-react-renderer": "^15.22.10",
+    "contentful": "^10.15.0",
+    "graphql-request": "^7.1.0",
     "next": "14.2.5",
+    "nodemon": "^3.1.4",
     "react": "^18",
     "react-dom": "^18"
   },
